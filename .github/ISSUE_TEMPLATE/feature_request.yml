@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest something you would like the app to have.
+labels: [feature request]
+body:
+  - type: textarea
+    attributes:
+      label: Describe feature.
+      description: Please include your use case
+    validations:
+      required: true
+
+  - type: input
+    id: windows_version
+    attributes:
+      label: Windows Version
+      description: Which version of Windows are you using?
+      placeholder: "Windows 11"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Additional information or screenshots about the feature request.
