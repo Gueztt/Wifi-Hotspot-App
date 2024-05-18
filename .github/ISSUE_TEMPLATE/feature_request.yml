@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest something you would like the app to have.
-labels: ["feature"]
+labels: ["enhancement"]
 title: "[Feature] "
 assignees:
   - Gueztt
