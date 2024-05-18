@@ -1,6 +1,9 @@
 name: Feature Request
 description: Suggest something you would like the app to have.
-labels: [feature request]
+labels: ["feature"]
+title: "[Feature] "
+assignees:
+  - Gueztt
 body:
   - type: textarea
     attributes:
