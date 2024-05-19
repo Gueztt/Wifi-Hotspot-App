@@ -36,6 +36,16 @@ body:
       default: 0
     validations:
       required: true
+      
+  - type: input
+    id: windows_version
+    attributes:
+      label: Windows Version
+      description: Which version of Windows are you using? You can copy version from within the app setings.
+      placeholder: "10.0.22624.1465"
+    validations:
+      required: true
+      
   - type: textarea
     id: logs
     attributes:
