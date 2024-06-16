@@ -29,7 +29,7 @@ This is a modern Minimalistic App to create and manage Wi-Fi Hotspot with/withou
 
 
 ### Localization (Translation):
-[<img src="https://badges.crowdin.net/badge/dark/crowdin-on-light@2x.png"  alt="Crowdin">](https://crowdin.com/project/wifi-hotspot-app)
+[<img width="22%" src="https://badges.crowdin.net/badge/dark/crowdin-on-light@2x.png"  alt="Crowdin">](https://crowdin.com/project/wifi-hotspot-app)
 
 
 ### Screenshots
