@@ -24,9 +24,9 @@ This is a modern Minimalistic App to create and manage Wi-Fi Hotspot with/withou
 
 ### Download From MS Store:
 
-[<img src="https://get.microsoft.com/images/en-gb%20dark.svg" width="200"/>](https://apps.microsoft.com/detail/9PB920MJLBX4?mode=direct)
-
-
+<a href="https://apps.microsoft.com/detail/9PB920MJLBX4?mode=full">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 ### Localization (Translation):
 [<img width="22%" src="https://badges.crowdin.net/badge/dark/crowdin-on-light@2x.png"  alt="Crowdin">](https://crowdin.com/project/wifi-hotspot-app)
