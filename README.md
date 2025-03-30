@@ -13,7 +13,7 @@
 This is the public repository of Wifi Hotspot App on Microsoft Store. You can discuss, request feature or inform issues in the app.
 
 ### About App
-This is a modern Minimalistic App to create and manage Wi-Fi Hotspot with/without having Internet.
+This is a modern Minimalistic App to create and manage Wi-Fi Hotspot with/without having Internet for Microsoft Windows.
 
 ### Features:
 - Enable and Disable Internet while hotspot is ON.
@@ -21,8 +21,9 @@ This is a modern Minimalistic App to create and manage Wi-Fi Hotspot with/withou
 - Configure the app to run at windows startup, enable internet sharing.
 - Keep the app running in background.
 - Supports 25 Languages.
+- Support Microsoft Windows 11.
 
-### Download From MS Store:
+### Download From Microsoft Store:
 
 <a href="https://apps.microsoft.com/detail/9PB920MJLBX4?mode=full">
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
